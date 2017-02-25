@@ -8,7 +8,7 @@ namespace KishorAdmin
 {
     public class UserEntity
     {
-        public int UserId { get; set; }
+        public decimal UserId { get; set; }
 
         public String Name { get; set; }
     }
